@@ -1,8 +1,8 @@
-#Sun May 04 12:03:06 EEST 2025
-base.0=/Users/m/StudioProjects/TileCleaners/ahbottomnavigation/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
-base.1=/Users/m/StudioProjects/TileCleaners/ahbottomnavigation/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/5/classes.dex
-base.2=/Users/m/StudioProjects/TileCleaners/ahbottomnavigation/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/6/classes.dex
-base.3=/Users/m/StudioProjects/TileCleaners/ahbottomnavigation/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+#Sun May 04 12:27:17 EEST 2025
+base.0=/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/5/classes.dex
+base.2=/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/6/classes.dex
+base.3=/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
 path.0=classes.dex
 path.1=5/classes.dex
 path.2=6/classes.dex
