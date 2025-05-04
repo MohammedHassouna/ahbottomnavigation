@@ -3,24 +3,24 @@
 3    package="com.aurelhubert.ahbottomnavigation.test" >
 4
 5    <uses-sdk
-5-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:5:5-74
+5-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:5:5-74
 6        android:minSdkVersion="26"
-6-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:5:15-41
+6-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:5:15-41
 7        android:targetSdkVersion="34" />
-7-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:5:42-71
+7-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:11:5-15:89
+9-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:11:5-15:89
 10        android:name="android.test.InstrumentationTestRunner"
-10-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:11:22-75
+10-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:11:22-75
 11        android:functionalTest="false"
-11-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:14:22-52
+11-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:13:22-53
+12-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:13:22-53
 13        android:label="Tests for com.aurelhubert.ahbottomnavigation.test"
-13-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:15:22-87
+13-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:15:22-87
 14        android:targetPackage="com.aurelhubert.ahbottomnavigation.test" />
-14-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:12:22-85
+14-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:12:22-85
 15
 16    <permission
 16-->[androidx.core:core:1.13.0] /Users/m/.gradle/caches/transforms-4/59d070f11bb87fb01b81624ed1d90f84/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
@@ -34,14 +34,14 @@
 20-->[androidx.core:core:1.13.0] /Users/m/.gradle/caches/transforms-4/59d070f11bb87fb01b81624ed1d90f84/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
 21
 22    <application
-22-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:7:5-9:19
+22-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:7:5-9:19
 23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 23-->[androidx.core:core:1.13.0] /Users/m/.gradle/caches/transforms-4/59d070f11bb87fb01b81624ed1d90f84/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
 24        android:debuggable="true"
 25        android:extractNativeLibs="false" >
 26        <uses-library android:name="android.test.runner" />
-26-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:8:9-60
-26-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9987873500997619423.xml:8:23-57
+26-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:8:9-60
+26-->/Users/m/StudioProjects/ahbottomnavigation/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8525720308389615566.xml:8:23-57
 27
 28        <provider
 28-->[androidx.emoji2:emoji2:1.2.0] /Users/m/.gradle/caches/transforms-4/26ca74ee5a0a2e434f26d150622d8eb4/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
